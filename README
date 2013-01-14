@@ -1,10 +1,14 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=3508
 
-TeX 9
-                       
+                                      TeX 9                                  
+
+                        A semi-automatic, prefix-operated                    
+                                  TeX ftplugin                               
+                             with lots of firepower!                         
+
     Author: Elias Toivanen 
+    Email: [1]
     License: GPL
-    Version: 1.2
+    Version: 1.2.1
 
     TeX 9 is a ftplugin that aims to enhance the writing experience of high
     quality documents with LaTeX and Vim. The goal of TeX 9 is to be simple
@@ -34,4 +38,19 @@ TeX 9
         * Johannes Tanzler, Jose Aliste, Sergio Losilla
 
 ==============================================================================
+
+1.      Quick help for installation
+
+        * Unzip the tarball to your local Vim tree (usually ~/.vim)
+        * Update helptags (:helptags ~/.vim/doc/)
+        * Read the help on TeX 9 (:help tex_nine)
+
+==============================================================================
+
+[1] http://www.google.com/recaptcha/mailhide/d?k=01zYGjcmroKw0SapWSzBKoIQ==&c=a4IzT40CjKv-Rc9xXg4HCrD2AUf-Ku8Qb77II5iVomQ= 
+
+==============================================================================
+
+ vim:tw=72:ts=8:norl
+
 
